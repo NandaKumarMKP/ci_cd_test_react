@@ -1,5 +1,11 @@
 name: DevOps-GitHubActions
-on: push
+on: 
+  push:
+    branches: 
+      - main
+  pull_request: 
+    branches: 
+      - main
 jobs:
   # Build Job
   build:

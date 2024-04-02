@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NandaKumarMKP/ci_cd_test_react/static/css/main.9365fdba.css",
+    "main.js": "/NandaKumarMKP/ci_cd_test_react/static/js/main.3a2a596c.js",
+    "static/js/787.a2bf511c.chunk.js": "/NandaKumarMKP/ci_cd_test_react/static/js/787.a2bf511c.chunk.js",
+    "index.html": "/NandaKumarMKP/ci_cd_test_react/index.html",
+    "main.9365fdba.css.map": "/NandaKumarMKP/ci_cd_test_react/static/css/main.9365fdba.css.map",
+    "main.3a2a596c.js.map": "/NandaKumarMKP/ci_cd_test_react/static/js/main.3a2a596c.js.map",
+    "787.a2bf511c.chunk.js.map": "/NandaKumarMKP/ci_cd_test_react/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9365fdba.css",
+    "static/js/main.3a2a596c.js"
+  ]
+}
